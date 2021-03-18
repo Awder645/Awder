@@ -1,4 +1,4 @@
-#Code By Lost
+#Code By HAMA
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
 for n in range(2000):
